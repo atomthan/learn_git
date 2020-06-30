@@ -1,2 +1,3 @@
 just for test`
 now sync use ssh
+for ssh sync update config file`
